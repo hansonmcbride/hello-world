@@ -1,2 +1,3 @@
 # hello-world
-my first git hub file
+
+I hope I can learn fast.  At least this training is better written.  =)
